@@ -107,19 +107,19 @@ class App extends React.Component{
     <div className="px-4 pb-4">
       <div className="myText mb-3">my certificate during the experience of participating in programs and training.</div>
       <div className="teamItem text-center mb-3">
-        <img src="cnss.png" className="w-50"/>
+        <img src="image/cnss.png" className="w-50"/>
         <div className="teamName">Certified Network Security Specialist</div>
       </div>
       <div className="teamItem text-center mb-3">
-        <img src="bssn.png" className="w-50"/>
+        <img src="image/bssn.png" className="w-50"/>
         <div className="teamName">Badan Siber Dan Sandi Negara</div>
       </div>
       <div className="teamItem text-center mb-3">
-        <img src="google.png" className="w-50"/>
+        <img src="image/google.png" className="w-50"/>
         <div className="teamName">Google Bisnisku</div>
       </div>
       <div className="teamItem text-center mb-3">
-        <img src="cyber.jpg" className="w-50"/>
+        <img src="image/cyber.jpg" className="w-50"/>
         <div className="teamName">Cisco</div>
       </div>
     </div>

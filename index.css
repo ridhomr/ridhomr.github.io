@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@900&family=Poppins:wght@500;600;700;800&display=swap');
+
+.ridhomr{
+  font-family: 'Nunito', Sans-Serif;
+  font-size: 25px;
+  color: #130f40;
+}
+
+.WhoAmI{
+  font-family: 'Poppins', Sans-Serif;
+  font-weight: 700;
+  font-size: 30px;
+  color: #2c3e50;
+}
+
+.type{
+  font-family: 'Poppins', Sans-Serif;
+  font-weight: 700;
+  width: 150px;
+  height: 25px;
+}
+
+.tagContent{
+  font-family: 'Poppins', Sans-Serif;
+  font-weight: 700;
+  font-size: 25px;
+  color: #2c3e50;
+}
+
+.myText{
+  font-family: 'Poppins', Sans-Serif;
+  font-weight: 500;
+  font-size: 13px;
+  color: #2c3e50;
+  text-align: justify;
+  opacity: 0.75;
+}
+
+.myskillmenu{
+  overflow: auto;
+  white-space: nowrap;
+}
+
+.myskillmenu .myskillitem{
+  display: inline-block;
+  font-size: 40px;
+}
+
+.projectMenu{
+  font-family: 'Poppins', Sans-Serif;
+  font-weight: 500;
+  font-size: 15px;
+  color: #2c3e50;
+  width: 100%;
+}
+
+.projectMenu img{
+  display: inline-block;
+  width: 80px;
+  height: 80px;
+  margin-right: 10px;
+}
+
+.storyItem img{
+  border-radius: 15px;
+}
+
+.storyItem .storyTitle{
+  font-family: 'Poppins', Sans-Serif;
+  font-weight: 500;
+  font-size: 13px;
+  color: #2c3e50;
+}
+
+.teamItem{
+  width: 50%;
+  display: inline-block;
+}
+.teamName{
+  font-family: 'Poppins', Sans-Serif;
+  font-weight: 500;
+  font-size: 15px;
+  color: #2c3e50;
+}
+
+.otherSkill{
+  text-align: justify;
+}
+
+.otherSkill .btn{
+  font-family: 'Poppins', Sans-Serif;
+  font-weight: 500;
+  font-size: 10px;
+  color: #2c3e50;
+  margin-right: 5px;
+  margin-top: 5px;
+}
+
+footer{
+  font-family: 'Poppins', Sans-Serif;
+  font-weight: 500;
+  font-size: 10px;
+  color: #2c3e50;
+}
+
